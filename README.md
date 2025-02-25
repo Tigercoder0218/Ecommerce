@@ -1,15 +1,14 @@
 # ECOMMERCE
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
+![dashboard snap](https://github.com/Tigercoder0218/Ecommerce)
 ### Customer Homepage
-![homepage snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
+![homepage snap](https://github.com/Tigercoder0218/Ecommerce)
 ### Cart
-![cart snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/cart.png?raw=true)
+![cart snap](https://github.com/Tigercoder0218/Ecommerce)
 ### Track Orders
-![orders snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/orderspage.png?raw=true)
+![orders snap](https://github.com/Tigercoder0218/Ecommerce)
 ---
 ## FUNCTIONS
 ## Customer
@@ -86,9 +85,4 @@ https://myaccount.google.com/lesssecureapps
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
 ## Contributor
-- [Raxa](https://github.com/raxa217)
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+- [Tigercoder](https://github.com/Tigercoder0218/Ecommerce)
